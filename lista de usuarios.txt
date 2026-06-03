@@ -1,0 +1,82 @@
+| No. Control | Nombre             |
+| ----------- | ------------------ |
+| 22170860    | Alejandro Cárdenas |
+| 22170861    | Daniela Beltrán    |
+| 22170862    | Jesús Valenzuela   |
+| 22170863    | Mariana Lugo       |
+| 22170864    | Kevin Camacho      |
+| 22170865    | Andrea Espinoza    |
+| 22170866    | José Manuel Acosta |
+| 22170867    | Paola Zamudio      |
+| 22170868    | Ángel Villaseñor   |
+| 22170869    | Sofía Contreras    |
+| 22170870    | Eduardo Rocha      |
+| 22170871    | Valeria Camarena   |
+| 22170872    | Luis Fernando Vega |
+| 22170873    | Karen Montoya      |
+| 22170874    | Ricardo Arredondo  |
+| 22170875    | Fernanda Salazar   |
+| 22170876    | Héctor Medina      |
+| 22170852    | Brian Armenta      |
+
+alejandro.cardenas@culiacan.tecnm.mx
+daniela.beltran@culiacan.tecnm.mx
+jesus.valenzuela@culiacan.tecnm.mx
+mariana.lugo@culiacan.tecnm.mx
+kevin.camacho@culiacan.tecnm.mx
+andrea.espinoza@culiacan.tecnm.mx
+jose.acosta@culiacan.tecnm.mx
+paola.zamudio@culiacan.tecnm.mx
+angel.villasenor@culiacan.tecnm.mx
+sofia.contreras@culiacan.tecnm.mx
+eduardo.rocha@culiacan.tecnm.mx
+valeria.camarena@culiacan.tecnm.mx
+luis.vega@culiacan.tecnm.mx
+karen.montoya@culiacan.tecnm.mx
+ricardo.arredondo@culiacan.tecnm.mx
+fernanda.salazar@culiacan.tecnm.mx
+hector.medina@culiacan.tecnm.mx
+
+| Rol                                 | Nombre          | Correo                                                                        |
+| --------------------------          | --------------- | ----------------------------------------------------------------------------- |
+| Coordinadora Institucional PT       | Rosa López      | [rosa.lopez@culiacan.tecnm.mx](mailto:rosa.lopez@culiacan.tecnm.mx)           |
+| Coordinadora Departamental Academica| María Torres    | [maria.torres@culiacan.tecnm.mx](mailto:maria.torres@culiacan.tecnm.mx)       |
+| Coordinadora Departamental          | Lucía Valdez    | [lucia.valdez@culiacan.tecnm.mx](mailto:lucia.valdez@culiacan.tecnm.mx)       |
+| Jefe de Departamento Academico      | Ramón Soto      | [ramon.soto@culiacan.tecnm.mx](mailto:ramon.soto@culiacan.tecnm.mx)           |
+| Jefe de Departamento"Desarrollo Academico"              | Roberto Félix   | [roberto.felix@culiacan.tecnm.mx](mailto:roberto.felix@culiacan.tecnm.mx)     |
+| Director                            | Carlos Méndez   | [carlos.mendez@culiacan.tecnm.mx](mailto:carlos.mendez@culiacan.tecnm.mx)     |
+| Subdirector                         | Patricia Lugo   | [patricia.lugo@culiacan.tecnm.mx](mailto:patricia.lugo@culiacan.tecnm.mx)     |
+| Tutor                               | Juan Pérez      | [juan.perez@culiacan.tecnm.mx](mailto:juan.perez@culiacan.tecnm.mx)           |
+| Tutor                               | Ana García      | [ana.garcia@culiacan.tecnm.mx](mailto:ana.garcia@culiacan.tecnm.mx)           |
+| Tutor                               | Miguel Osuna    | [miguel.osuna@culiacan.tecnm.mx](mailto:miguel.osuna@culiacan.tecnm.mx)       |
+| Tutor                               | Sandra Castro   | [sandra.castro@culiacan.tecnm.mx](mailto:sandra.castro@culiacan.tecnm.mx)     |
+| Tutor                               | Jorge Lizárraga | [jorge.lizarraga@culiacan.tecnm.mx](mailto:jorge.lizarraga@culiacan.tecnm.mx) |
+
+
+| Rol   | Nombre       | Correo sugerido                                                         |
+| ----- | ------------ | ----------------------------------------------------------------------- |
+| Tutor | María García | [maria.garcia@culiacan.tecnm.mx](mailto:maria.garcia@culiacan.tecnm.mx) |
+
+
+| Usuario                                                                       | Rol                        |
+| ----------------------------------------------------------------------------- | -------------------------- |
+| [rosa.lopez@culiacan.tecnm.mx](mailto:rosa.lopez@culiacan.tecnm.mx)           | Coordinadora Institucional |
+| [maria.torres@culiacan.tecnm.mx](mailto:maria.torres@culiacan.tecnm.mx)       | Coordinadora Departamental |
+| [ramon.soto@culiacan.tecnm.mx](mailto:ramon.soto@culiacan.tecnm.mx)           | Jefe de Departamento       |
+| [carlos.mendez@culiacan.tecnm.mx](mailto:carlos.mendez@culiacan.tecnm.mx)     | Director                   |
+| [patricia.lugo@culiacan.tecnm.mx](mailto:patricia.lugo@culiacan.tecnm.mx)     | Subdirector                |
+| [juan.perez@culiacan.tecnm.mx](mailto:juan.perez@culiacan.tecnm.mx)           | Tutor                      |
+| [ana.garcia@culiacan.tecnm.mx](mailto:ana.garcia@culiacan.tecnm.mx)           | Tutor                      |
+| [miguel.osuna@culiacan.tecnm.mx](mailto:miguel.osuna@culiacan.tecnm.mx)       | Tutor                      |
+| [sandra.castro@culiacan.tecnm.mx](mailto:sandra.castro@culiacan.tecnm.mx)     | Tutor                      |
+| [jorge.lizarraga@culiacan.tecnm.mx](mailto:jorge.lizarraga@culiacan.tecnm.mx) | Tutor                      |
+| [maria.garcia@culiacan.tecnm.mx](mailto:maria.garcia@culiacan.tecnm.mx)       | Tutor                      |
+
+USUARIOS NUEVOS 
+TUTORES
+Mariana Torres — 3815941
+tutorado
+Camila Rios - 22170562 contraseña camilarios
+Laura Diaz -            contraseña lauraa23
+
+
